@@ -4,9 +4,7 @@
 
 We prepared nine baseline approaches and over 30 model configurations, spanning traditional machine learning, established industry-standard methods, recent academic advances, pretrained foundation models, and knowledge distillation. All preparation was conducted offline, with candidate selection guided by research hypotheses and performance on publicly available and simulated datasets. **Actual testing, experimental evaluation, and model fine-tuning were performed on site within approximately three hours.** We particularly valued the opportunity to work with real-world industry data and investigate whether cutting-edge academic methods could translate into practical improvements over established industrial approaches.
 
-Shortly before the submission deadline, event staff asked us to join a group photo before submitting our work. We returned afterwards and submitted approximately **four minutes past the deadline**.
-
-Our submission was not accepted.
+Shortly before the submission deadline, event staff asked us to join a group photo before submitting our work. We returned afterwards and submitted approximately four minutes past the deadline. Our submission was not accepted.
 
 While our discussions with the on-site mentors offered limited technical guidance on our methodology, we appreciated their time and willingness to engage with our work.
 
