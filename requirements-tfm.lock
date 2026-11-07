@@ -1,0 +1,4 @@
+# Additional pinned dependencies for final TabICL inference on CUDA 12.8.
+--extra-index-url https://download.pytorch.org/whl/cu128
+torch==2.7.1+cu128
+tabicl==2.2.0

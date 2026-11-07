@@ -1,0 +1,8 @@
+# Pinned direct dependencies for the final model and CPU tests.
+numpy==2.2.6
+pandas==2.3.3
+pyarrow==22.0.0
+scikit-learn==1.6.1
+lightgbm==4.6.0
+psutil==7.1.3
+pytest==8.4.2
